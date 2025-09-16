@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hi, I'm Mandeep Singh</h1>
+<h1 align="center">👋 Hi, I'm Mandeep Nagar</h1>
 <h3 align="center">🚀 Full Stack Developer | MERN Stack Enthusiast | API Builder</h3>
 
 <p align="center">
