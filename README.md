@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I'm Mandeep Nagar</h1>
-<h3 align="center">🚀 Full Stack Developer | MERN Stack Enthusiast | API Builder</h3>
+<h3 align="center">🚀 Full Stack Developer</h3>
 
 <p align="center">
   <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="500" height="300"/>
